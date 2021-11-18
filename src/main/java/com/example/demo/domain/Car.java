@@ -1,5 +1,9 @@
 package com.example.demo.domain;
 
+/**車のドメイン
+ * @author kaki0
+ *
+ */
 public class Car {
 	private int speed;
 	private String name;
